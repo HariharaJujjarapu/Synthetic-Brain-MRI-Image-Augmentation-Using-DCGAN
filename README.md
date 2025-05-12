@@ -30,7 +30,4 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 2. Clone this repository:
    ```bash
    git clone https:github.com/HariharaJujjarapu/Synthetic-Brain-MRI-Image-Augmentation-Using-DCGAN.git
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-4. Run the Python script or Jupyter Notebook to train the model and test its accuracy.
+3. Run the Python script or Jupyter Notebook to train the model and test its accuracy.
