@@ -29,7 +29,7 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
    pip install tensorflow numpy matplotlib pillow
 2. Clone this repository:
    ```bash
-   git clone https://github.com/HariharaJujjarapu/sentiment-analysis-nlp.git
+   git clone https:github.com/HariharaJujjarapu/Synthetic-Brain-MRI-Image-Augmentation-Using-DCGAN.git
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
